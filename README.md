@@ -6,3 +6,6 @@ Na url basta por ?cpf=, exemplo: api_cpf.php?cpf=xxxxxxxxxxx
 
 # NAVBAR URL
 ![alt text](https://raw.githubusercontent.com/Xmroot/API_CONSULTARCPF/main/Pesquisa.png)
+
+
+TALVEZ A API ESTEJA OFF, VOLTO EM BREVE COM UMA NOVA.
